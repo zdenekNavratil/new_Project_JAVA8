@@ -1,3 +1,9 @@
+<<<<<<< HEAD
 123
 
+keep this one
+
 ne ne ne
+=======
+123
+>>>>>>> parent of 6070e16... ops this will desipier
